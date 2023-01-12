@@ -1,0 +1,44 @@
+{
+    "username": "user1",
+    "firstName": "benjamin",
+    "lastName": "shtainberg",
+    "email": "user1@user1.com",
+    "pass1": "1234",
+    "pass2": "1234"
+}
+
+{
+    "username": "user2",
+    "firstName": "benjamin",
+    "lastName": "shtainberg",
+    "email": "user2@user2.com",
+    "pass1": "1234",
+    "pass2": "1234"
+}
+
+{
+    "username": "user3",
+    "firstName": "benjamin",
+    "lastName": "shtainberg",
+    "email": "user3@user3.com",
+    "pass1": "1234",
+    "pass2": "1234"
+}
+
+{
+    "username": "user4",
+    "firstName": "benjamin",
+    "lastName": "shtainberg",
+    "email": "user4@user4.com",
+    "pass1": "1234",
+    "pass2": "1234"
+}
+
+{
+    "username": "user5",
+    "firstName": "benjamin",
+    "lastName": "shtainberg",
+    "email": "user5@user5.com",
+    "pass1": "1234",
+    "pass2": "1234"
+}
